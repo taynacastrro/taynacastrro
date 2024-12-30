@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Taina Back
+# 👩🏻‍💻 Tayna do Back
 
 **`Desenvolvedora BackEnd`**
 
@@ -33,11 +33,11 @@ Me chamo Maria Taina, tenho 22 anos e sou natural de Paraipaba/CE. Estou cursand
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="SQL Server"
+    title="SQL Server" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://altyra.com/wp-content/uploads/2018/11/microsoft-sql-server-logo-png.png" 
 />
 <img 
     align="left" 
