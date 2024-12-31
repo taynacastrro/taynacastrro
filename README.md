@@ -9,19 +9,11 @@ Me chamo Maria Taina, tenho 22 anos e sou natural de Paraipaba/CE. Estou cursand
 
 <img 
     align="left" 
-    alt="MySQL"
-    title="MySQL" 
+    alt="Java"
+    title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src= "https://i.pinimg.com/736x/09/7b/34/097b349ab1d78c15744c3a89ff457939.jpg"
-/>
-<img 
-    align="left" 
-    alt="Postgresql" 
-    title="Postgresql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://i.pinimg.com/736x/3c/a9/4a/3ca94a7ab1ec99f374e0ad6d080c2d9e.jpg" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
 />
 <img 
     align="left" 
@@ -33,6 +25,14 @@ Me chamo Maria Taina, tenho 22 anos e sou natural de Paraipaba/CE. Estou cursand
 />
 <img 
     align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
     alt="SQL Server"
     title="SQL Server" 
     width="30px" 
@@ -41,19 +41,19 @@ Me chamo Maria Taina, tenho 22 anos e sou natural de Paraipaba/CE. Estou cursand
 />
 <img 
     align="left" 
-    alt="Java"
-    title="Java" 
+    alt="Postgresql" 
+    title="Postgresql"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
+    src="https://i.pinimg.com/736x/3c/a9/4a/3ca94a7ab1ec99f374e0ad6d080c2d9e.jpg" 
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="MySQL"
+    title="MySQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src= "https://i.pinimg.com/736x/09/7b/34/097b349ab1d78c15744c3a89ff457939.jpg"
 />
 <br/>
 <br/>
