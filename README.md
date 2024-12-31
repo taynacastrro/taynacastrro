@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Tayna do Back
+# 👩🏻‍💻 Tayna Castro
 
 **`Desenvolvedora BackEnd`**
 
