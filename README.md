@@ -13,7 +13,7 @@ Me chamo Maria Taina, tenho 22 anos e sou natural de Paraipaba/CE. Estou cursand
     title="MySQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src= "https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png"
+    src= "https://i.pinimg.com/736x/09/7b/34/097b349ab1d78c15744c3a89ff457939.jpg"
 />
 <img 
     align="left" 
