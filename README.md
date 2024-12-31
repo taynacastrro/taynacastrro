@@ -17,11 +17,11 @@ Me chamo Maria Taina, tenho 22 anos e sou natural de Paraipaba/CE. Estou cursand
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="Postgresql" 
+    title="Postgresql"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://1.bp.blogspot.com/-cdyYr8QqKj8/X-0eA71A-JI/AAAAAAACJCM/55m-UG29rDcGMhPjVLvcnjw6U23SXqmVwCLcBGAsYHQ/w1200-h630-p-k-no-nu/postgresql.png" 
 />
 <img 
     align="left" 
