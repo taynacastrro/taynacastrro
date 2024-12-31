@@ -37,7 +37,7 @@ Me chamo Maria Taina, tenho 22 anos e sou natural de Paraipaba/CE. Estou cursand
     title="SQL Server" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://altyra.com/wp-content/uploads/2018/11/microsoft-sql-server-logo-png.png" 
+    src="https://i.pinimg.com/736x/3e/55/df/3e55dfb0980956b42cac768b740cdad6.jpg" 
 />
 <img 
     align="left" 
