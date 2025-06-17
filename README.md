@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Tayna Castro
+# 👩🏻‍💻 Tainá Castro
 
 **`Desenvolvedora BackEnd`**
 
-Me chamo Maria Taina, tenho 22 anos e sou natural de Paraipaba/CE. Estou cursando na Universidade de Fortaleza , com o curso Analise Desenvolvimento de Sistemas. Atualmente, Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu GitHub.
+Me chamo Tainá, tenho 22 anos e sou natural de Paraipaba/CE. Estou cursando na Universidade de Fortaleza , com o curso Analise Desenvolvimento de Sistemas. Atualmente, Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu GitHub.
 ---
 
 ### 🤖 Linguagens e Tecnologias
