@@ -2,7 +2,7 @@
 
 **`Desenvolvedora BackEnd`**
 
-Me chamo Tainá, tenho 22 anos e sou natural de Fortaleza - Ceará. Estou cursando na Universidade de Fortaleza , com o curso Analise Desenvolvimento de Sistemas. Atualmente, sou apaixonada por tecnologia e compartilho meu conhecimento através do meu GitHub.
+Me chamo Tainá, sou natural de Fortaleza - Ceará. Estou cursando na Universidade de Fortaleza , com o curso Analise Desenvolvimento de Sistemas. Atualmente, sou apaixonada por tecnologia e compartilho meu conhecimento através do meu GitHub.
 ---
 
 ### 🤖 Linguagens e Tecnologias
